@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael Bale, M.Sc.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student at Weill Cornell Medical College
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Weill Cornell Medical College
+    url: https://weill.cornell.edu/
+  - name: Lab of Steven Zvi Josefowicz
+    url: https://www.josefowiczlab.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include T cell biology, Epigenetics, hematopoiesis, and Bioinformatics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Epigenomics
+  - T cell Biology
+  - Immunology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. in Bioinformatics
+      institution: Johns Hopkins University
+      year: 2020
+    - course: B.A. in Chemistry
+      institution: University of Kentucky
+      year: 2016
+    - course: B.A. in Physics
+      institution: University of Kentucky
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,23 +48,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/NotABaleOfHay
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=bI_BfVwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+    link: https://github.com/michaelbale
+  - icon: cv
+    icon_pack: ai
+    link: uploads/BaleMichaelJ_CV-04242022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Michael Bale, MSc, is a PhD student in the Immunology and Microbial Pathogenesis program (IMP) at Weill Cornell Medical College. His thesis work in the lab of Steven Josefowicz, PhD, involves defining the role of stimulation-induced phosphorylation of histone H3, and in particular H3.3, at Serines 28 (H3S28ph), and 31 (H3.3S31ph) in T cell function, differentiation, and exhaustion. Additionally, Michael's work involves the integration of multi-omic datasets and multi-target ChIP-seq/CUT&RUN/CUT&Tag datasets in the analysis of stimulation-induced or cell-type identity-defining epigenetic changes as part of an SBIR-grant with industry partner EpiCypher and the Immunological Genome (ImmGen) Consortium.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BaleMichaelJ_CV-04242022.pdf" "newtab" >}}CV{{< /staticref >}}.
