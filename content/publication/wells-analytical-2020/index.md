@@ -90,7 +90,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/HughesLab-FNL/ISA-Analysis-Pipeline
 url_dataset:
 url_poster:
 url_project:
@@ -119,4 +119,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ''
+
+links:
+- name: URL
+  url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6647-4
 ---

@@ -99,7 +99,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/michaelbale/prob_identical
 url_dataset:
 url_poster:
 url_project:
@@ -131,4 +131,8 @@ slides: ''
 links:
 - name: URL
   url: https://pnas.org/doi/full/10.1073/pnas.1910334116
+- name: Shiny App
+  url: https://michaelbale.shinyapps.io/prob_identical/
+  icon_pack: fab
+  icon: browser
 ---

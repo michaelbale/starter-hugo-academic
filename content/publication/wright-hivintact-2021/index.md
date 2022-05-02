@@ -63,7 +63,7 @@ featured: true
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/ramics/HIVIntact
 url_dataset:
 url_poster:
 url_project:
@@ -75,8 +75,8 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Schematic for HIVIntact algorithm'
+  focal_point: 'Smart'
   preview_only: false
 
 # Associated Projects (optional).

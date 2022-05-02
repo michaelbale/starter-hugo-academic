@@ -16,7 +16,7 @@ organizations:
     url: https://www.josefowiczlab.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include T cell biology, Epigenetics, hematopoiesis, and Bioinformatics.
+bio: At the intersection of T cell biology, Epigenetics, Hematopoiesis, and Bioinformatics.
 
 # Interests to show in About widget
 interests:
